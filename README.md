@@ -1,4 +1,4 @@
 # BANK-CUSTOMER-CHURN-ANALYSIS-REPORT
 ---
 
-![](Bank_Customer_Churn.PNG)
+![](Bank_Customer_Churn.JPG)
