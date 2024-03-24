@@ -31,4 +31,5 @@ The primary dataset utilized for this analysis is the "skilharvest_class_data.xl
 - **IsActiveMember:** Whether the customer is an active member (1 = yes, 0 = no).
 - **EstimatedSalary:** The estimated salary of the customer.
 - **Exited:** Whether the customer has churned (1 = yes, 0 = no).
+
 The dataset aims to determine customer churn, enabling banks to anticipate and prevent customer attrition. By determining churn, banks can proactively retain customers and reduce turnover rates. This facilitates the implementation of targeted strategies to enhance customer retention, fostering long-term profitability in the competitive banking sector.
