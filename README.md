@@ -1,9 +1,6 @@
 # BANK-CUSTOMER-CHURN-ANALYSIS-REPORT
 ---
 
-![Untitled](https://github.com/Bhassyt/BANK-CUSTOMER-CHURN-ANALYSIS-REPORT/assets/158210164/57bb7a9d-b0a4-4886-8637-64144009fd57)
-
-
 **Documentation Outlines**
 
 - [Project Overview](#project-overview)
