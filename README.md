@@ -87,3 +87,6 @@ Not Churned = CALCULATE(COUNTROWS('Bank Customer Churn'),'Bank Customer Churn'[E
 ```
 Spain Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[Geography] = "Spain")
 ```
+
+## Results and Findings
+---
