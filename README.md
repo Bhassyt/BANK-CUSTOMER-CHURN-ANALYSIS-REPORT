@@ -47,3 +47,7 @@ In the initial data preparation phase, the following tasks were performed:
 - Handling Missing Data.
 - Data Formatting.
 - Feature Selection/Engineering.
+
+## Data Analysis
+---
+Here is where I incorporated certain Data Analysis Expressions (DAX) utilized during my analysis.
