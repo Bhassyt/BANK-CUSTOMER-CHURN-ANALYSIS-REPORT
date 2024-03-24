@@ -51,6 +51,12 @@ In the initial data preparation phase, the following tasks were performed:
 **Exploratory Data Analysis**
 
 EDA entails delving into the data to address various questions regarding its characteristics, which includes:
+- Among the analyzed countries (France, Germany, and Spain), which geographic location had the highest customer count?
+- Among the analyzed customer base, which gender had the highest customer count?
+- Which churn status (churned or not churned) had the higher number of customers?
+- Among the customers analyzed, which group (those with a credit card or those without a credit card) had a higher customer count?
+- Between active and inactive customers, which customer group had a higher count?
+- Which product had the highest number of customers among all the analyzed products?
 
 ## Data Analysis
 ---
