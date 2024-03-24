@@ -1,3 +1,3 @@
 # BANK-CUSTOMER-CHURN-ANALYSIS-REPORT
 ---
-![](Customer-Churn.png)
+![Customer-Churn](https://github.com/Bhassyt/BANK-CUSTOMER-CHURN-ANALYSIS-REPORT/assets/158210164/9264793f-32e3-4082-a4d0-4cb3ea718db7)
