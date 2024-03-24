@@ -101,3 +101,9 @@ Spain Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[
 ## Results and Findings
 ---
 This is where the insights obtained from the analysis are presented. "Access my insights here:[[Dashboard Report Link](https://app.powerbi.com/view?r=eyJrIjoiMmY3NDFhNGMtNjE0Ni00ODE3LWE4MmYtNGQzNzk1MWExYjMwIiwidCI6IjBlZjcwYWU3LWI3NmUtNGI4ZC04NWEzLWZlZmFmNjg4MDAxZCJ9)]"
+- Among the analyzed countries, France had the highest count of customers, totaling 5,014. Germany followed with 2,509 customers, and Spain had 2,477 customers.
+- The count of male customers was higher, with 5,457 individuals, compared to female customers, which totaled 4,543.
+- The count of customers who did not churn was higher, with 7,963 individuals, compared to those who churned, totaling 2,037.
+- The count of customers with a credit card was higher, totaling 7,055 individuals, compared to those without a credit card, which amounted to 2,945.
+- The count of active customers was higher, totaling 5,151 individuals, compared to those who were not active, which amounted to 4,849.
+- Among the analyzed products, product 1 had the highest count of customers, totaling 5,084 individuals, which was 8,373.33% higher than product 4, which had the lowest count of customers at 60.
