@@ -57,6 +57,13 @@ EDA entails delving into the data to address various questions regarding its cha
 - Among the customers analyzed, which group (those with a credit card or those without a credit card) had a higher customer count?
 - Between active and inactive customers, which customer group had a higher count?
 - Which product had the highest number of customers among all the analyzed products?
+- Between male and female customers, which gender had a higher percentage of customers who churned?
+- Which country had the highest percentage of customers who churned (exited)?
+- What was the churn rate for customers with 0 active members?
+- What is the range of minimum balances among customers who are likely to churn?
+- What is the distribution of customer exits based on tenure, and how does the churn rate vary across different tenure groups?
+- What is the count of customers who churned among those who had a credit card?
+- What is the count of customers who exited within a specific age range?
 
 ## Data Analysis
 ---
@@ -107,3 +114,10 @@ This is where the insights obtained from the analysis are presented. "Access my 
 - The count of customers with a credit card was higher, totaling 7,055 individuals, compared to those without a credit card, which amounted to 2,945.
 - The count of active customers was higher, totaling 5,151 individuals, compared to those who were not active, which amounted to 4,849.
 - Among the analyzed products, product 1 had the highest count of customers, totaling 5,084 individuals, which was 8,373.33% higher than product 4, which had the lowest count of customers at 60.
+- Mostly female customers are exited around 11.4% and male are exited around 9%.
+- Mostly customer are exited from Germany 8.1% and France 8.1% and Spain 4.1%.
+- Mostly 0 number of active member are exited around 1302.
+- Customers with a minimum balance ranging from 50,000 to 250,000 were more likely to churn, indicating a potential correlation between minimum balance levels and customer churn.
+- Among customers who have been with the company for 10 years, approximately 101 have exited. Additionally, customers with tenures of 8 and 9 years, totaling around 197 and 213 respectively, have also exited.
+- The majority of customers with a credit card, specifically around 1,424 individuals, have exited.
+- Mostly minimum age 40 of range and maximum of the age 60 range are customers exited.
