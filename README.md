@@ -51,3 +51,39 @@ In the initial data preparation phase, the following tasks were performed:
 ## Data Analysis
 ---
 Here is where I incorporated certain Data Analysis Expressions (DAX) utilized during my analysis.
+```
+Active Member Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[IsActiveMember] = 1)
+```
+```
+Churn Rate = SUM('Bank Customer Churn'[Exited]) / COUNT('Bank Customer Churn'[CustomerId])
+```
+```
+Churned = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[Exited] = 1)
+```
+```
+Customers with Credit Card = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[HasCrCard] = 1)
+```
+```
+Customers without Credit Card = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[HasCrCard] = 0)
+```
+```
+Female Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[Gender] = "Female")
+```
+```
+France Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[Geography] = "France")
+```
+```
+Germany Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[Geography] = "Germany")
+```
+```
+Male Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[Gender] = "Male")
+```
+```
+Non-Active Member Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[IsActiveMember] = 0)
+```
+```
+Not Churned = CALCULATE(COUNTROWS('Bank Customer Churn'),'Bank Customer Churn'[Exited] = 0)
+```
+```
+Spain Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[Geography] = "Spain")
+```
