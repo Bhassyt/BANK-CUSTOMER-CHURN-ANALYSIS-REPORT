@@ -100,3 +100,4 @@ Spain Count = CALCULATE(COUNTROWS('Bank Customer Churn'), 'Bank Customer Churn'[
 
 ## Results and Findings
 ---
+This is where the insights obtained from the analysis are presented. "Access my insights here:[[Dashboard Report Link](https://app.powerbi.com/view?r=eyJrIjoiMmY3NDFhNGMtNjE0Ni00ODE3LWE4MmYtNGQzNzk1MWExYjMwIiwidCI6IjBlZjcwYWU3LWI3NmUtNGI4ZC04NWEzLWZlZmFmNjg4MDAxZCJ9)]"
