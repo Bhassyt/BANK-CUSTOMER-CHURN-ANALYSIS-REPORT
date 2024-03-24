@@ -17,7 +17,7 @@ In the competitive banking industry, customer retention is paramount for sustain
 
 ## Data Sources
 ---
-The primary dataset utilized for this analysis is the "skilharvest_class_data.xlsx" file. The bank customer churn dataset is a commonly used dataset for predicting customer churn in the banking industry. It contains information on bank customers who either left the bank or continue to be a customer. The dataset includes the following attributes:
+The primary dataset utilized for this analysis is the "bank_customer_churn_data.xlsx" file. The bank customer churn dataset is a commonly used dataset for predicting customer churn in the banking industry. It contains information on bank customers who either left the bank or continue to be a customer. The dataset includes the following attributes:
 - **Customer ID:** A unique identifier for each customer.
 - **Surname:** The customer's surname or last name.
 - **Credit Score:** A numerical value representing the customer's credit score.
