@@ -33,3 +33,17 @@ The primary dataset utilized for this analysis is the "bank_customer_churn_data.
 - **Exited:** Whether the customer has churned (1 = yes, 0 = no).
 
 The dataset aims to determine customer churn, enabling banks to anticipate and prevent customer attrition. By determining churn, banks can proactively retain customers and reduce turnover rates. This facilitates the implementation of targeted strategies to enhance customer retention, fostering long-term profitability in the competitive banking sector.
+
+## Tools Used
+---
+- Microsoft Excel (For Data Cleaning)
+- Microsoft Power BI (For Reporting and Dashboarding)
+
+## Data Cleaning and Preparation
+---
+In the initial data preparation phase, the following tasks were performed:
+- Data Loading and Inspection.
+- Handling Duplicate Data.
+- Handling Missing Data.
+- Data Formatting.
+- Feature Selection/Engineering.
