@@ -48,6 +48,10 @@ In the initial data preparation phase, the following tasks were performed:
 - Data Formatting.
 - Feature Selection/Engineering.
 
+**Exploratory Data Analysis**
+
+EDA entails delving into the data to address various questions regarding its characteristics, which includes:
+
 ## Data Analysis
 ---
 Here is where I incorporated certain Data Analysis Expressions (DAX) utilized during my analysis.
